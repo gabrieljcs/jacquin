@@ -1,5 +1,7 @@
 Jacquin
 =======
+Chooses a random restaurant near your office so you have less choices in life.
+
 
 What?
 -----
@@ -17,5 +19,12 @@ It's gonna return a random restaurant with its rating.
 
 Should be easy to keep this in a serverless environment triggered by a webhook (Slack, Telegram).
 
-
-Don't forget, *"Life is a sum of all your choices" (Albert Camus)*.
+  
+  
+  
+  
+Now you have one less choice to make in your life. Hopefully this can ease your anxiety.
+  
+  
+> "Life is a sum of all your choices"
+> (Albert Camus)
